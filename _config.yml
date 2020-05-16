@@ -97,11 +97,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Sticky notes for statistics"
   location         : "Seoul, South Korea"
-  email            : #"kwoun0927@gmail.com"
+  email            : "kwoun0927@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "kwoun0927@gmail.com"
+      #url: "kwoun0927@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
