@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Youngwook Kwon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Sticky notes for statistics"
-  location         : "Seoul, South Korea"
+  bio              : "Newbie Statistician"
+  location         : "South Korea"
   email            : "kwoun0927@gmail.com"
   links:
     - label: "Email"
