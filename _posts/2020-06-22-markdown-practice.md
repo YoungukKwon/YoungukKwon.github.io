@@ -1,4 +1,11 @@
+---
+title:  "Markdown 연습"
 
+categories:
+  - Markdown
+#tags:
+#  - Blog
+---
 기본적인 텍스트 표기 방식이다.
 마크다운은 줄바꿈을 인식하지 않는다.
 
