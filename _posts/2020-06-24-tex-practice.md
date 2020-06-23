@@ -10,7 +10,7 @@ title:  "LaTex practice"
 
 $e^{i \pi} = -1$
 
-$\begin{align}
+$$\begin{align}
   \mathrm{Var}(S_n) &= \mathrm{E}(S_n^2) \geq \mathrm{E}(S_n^2; \cup_{k=1}^n A_k)\\
                                 &= \sum\limits_{k=1}^n \int_{A_k} S_n^2 \: dP \\
                                 &= \sum\limits_{k=1}^n \int_{A_k} (S_n - S_k + S_k)^2 \: dP \\
@@ -20,4 +20,4 @@ $\begin{align}
                                 &\geq \sum\limits_{k=1}^n \int_{A_k} x^2 \: dP \\
                                 &= x^2P(\cup_{k=1}^n A_k) \\
                                 &= x^2 P(\max_{1 \leq k \leq n} |S_k| > x)
-\end{align}$
+\end{align}$$
