@@ -2,8 +2,8 @@
 title: "블로그 소개"
 permalink: /about/
 layout: single
-last_modified_at: 2020-06-22
+last_modified_at: 2020-06-23
 ---
 
 학부에서 화학교육을 전공했으며 현재는 대학원에서 통계학을 공부하고 있습니다.
-  
+통계학과 수학을 공부하는 중에 알게 된 재미있는 사실이나 자주 참고하는 정보 위주로 올립니다.  
