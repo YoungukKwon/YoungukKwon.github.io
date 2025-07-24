@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Youngwook Kwon"
 title_separator          : "-"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Youngwook Kwon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Student in Seoul National University"
+  bio              : "Ph.D. Student of Statistics in Seoul National University"
   location         : "Seoul, South Korea"
   email            : "kwoun0927@gmail.com"
   links:
