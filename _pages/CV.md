@@ -7,5 +7,9 @@ last_modified_at: 2025-07-24
 
 ---
 
-Test
+I am a Ph.D. student of Department of Statistics at Seoul National University (SNU), Korea.
+
+My research interest lies in tensor analysis, statistical dimension reduction, and robust statistics. 
+
+# Education 
 
