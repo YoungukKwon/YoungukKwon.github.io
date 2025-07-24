@@ -18,13 +18,13 @@ My research interest lies in tensor analysis, statistical dimension reduction, a
 2013 - 2019: B.S. Chemistry Education, SNU
 
 ## Research Publications
-($^\dagger$: equal contribution)
+($\dagger$: equal contribution)
 
 * **Kwon, Y**. and Oh, H.-S. (2025+). Traffic tensor completion with low-rank truncated sparsity-inducing regularizer. Under review. [code](https://github.com/YoungukKwon/TSIR)
 * **Kwon, Y**. and Oh, H.-S. (2025+). TLRR-TF: A fast tensor low-rank representation via tri-factorization. Under review. [code](https://github.com/YoungukKwon/TLRR-TF)
 * **Kwon, Y**. and Oh, H.-S. (2025+). Robust penalized rank-one tensor approximation. Under review. [code](https://github.com/YoungukKwon/RPTA)
-* Kang, S., Kim, K., **Kwon, Y**., Park, S., Park, S., Shin, H.-Y., Kim, J. and Oh, H.-S. (2025). Semiparametric approaches for the inference of univariate and multivariate extremes: Team SHSmultiscale. *Extremes*, 28(1), 123-148.
-* Kim, S., **Kwon, Y**., Kim, J., Bae, K., and Oh, H.-S. (2023). A model averaging prediction of two-way functional data in semiconductor manufacturing. *IEEE Transactions on Semiconductor Manufacturing*, 37(1), 76-86.
+* Kang, S$^\dagger$., Kim, K$^\dagger$., **Kwon, Y**$^\dagger$., Park, S$^\dagger$., Park, S$^\dagger$., Shin, H.-Y$^\dagger$., Kim, J. and Oh, H.-S. (2025). Semiparametric approaches for the inference of univariate and multivariate extremes: Team SHSmultiscale. *Extremes*, 28(1), 123-148.
+* Kim, S$^\dagger$., **Kwon, Y**$^\dagger$., Kim, J., Bae, K., and Oh, H.-S. (2023). A model averaging prediction of two-way functional data in semiconductor manufacturing. *IEEE Transactions on Semiconductor Manufacturing*, 37(1), 76-86.
 
 ## Conference Talks 
 ### Oral Presentations
