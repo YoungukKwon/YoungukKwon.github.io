@@ -18,7 +18,7 @@ My research interest lies in tensor analysis, statistical dimension reduction, a
 2013 - 2019: B.S. Chemistry Education, SNU
 
 ## Research Publications
-$`\sqrt{3x-1}+(1+x)^2`$
+* $\sqrt{3x-1}+(1+x)^2$
 
 * **Kwon, Y**. and Oh, H.-S. (2025+). Traffic tensor completion with low-rank truncated sparsity-inducing regularizer. Under review. [code](https://github.com/YoungukKwon/TSIR)
 * **Kwon, Y**. and Oh, H.-S. (2025+). TLRR-TF: A fast tensor low-rank representation via tri-factorization. Under review. [code](https://github.com/YoungukKwon/TLRR-TF)
