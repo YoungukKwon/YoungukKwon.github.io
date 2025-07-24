@@ -11,5 +11,10 @@ I am a Ph.D. student of Department of Statistics at Seoul National University (S
 
 My research interest lies in tensor analysis, statistical dimension reduction, and robust statistics. 
 
-# Education 
+### Education 
+2022 - Present: Ph.D. Statistics, SNU [Advisor: Professor Hee-Seok Oh]
+2020 - 2021: M.S. Statistics, SNU
+2013 - 2019: B.S. Chemistry Education, SNU
+
+### Research Publications
 
