@@ -2,7 +2,7 @@
 permalink: /cv/
 title: "CV"
 
-# last_modified_at: 2025-07-24
+last_modified_at: 2025-09-26
 
 ---
 
@@ -20,6 +20,7 @@ My research interest lies in tensor analysis, statistical dimension reduction, a
 ## Research Publications
 ($\dagger$: equal contribution)
 
+* **Kwon, Y**. and Oh, H. -S. (2025+). Randomized QLP decomposition for third-order tensors with unitary transform. Under review. [code](https://github.com/YoungukKwon/RTQLP)
 * **Kwon, Y**. and Oh, H.-S. (2025+). Traffic tensor completion with low-rank truncated sparsity-inducing regularizer. Under review. [code](https://github.com/YoungukKwon/TSIR)
 * **Kwon, Y**. and Oh, H.-S. (2025+). TLRR-TF: A fast tensor low-rank representation via tri-factorization. Under review. [code](https://github.com/YoungukKwon/TLRR-TF)
 * **Kwon, Y**. and Oh, H.-S. (2025+). Robust penalized rank-one tensor approximation. Under review. [code](https://github.com/YoungukKwon/RPTA)
