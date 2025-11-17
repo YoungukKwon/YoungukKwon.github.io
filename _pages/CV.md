@@ -2,7 +2,7 @@
 permalink: /cv/
 title: "CV"
 
-last_modified_at: 2025-09-26
+last_modified_at: 2025-11-17
 
 ---
 
@@ -22,8 +22,8 @@ My research interest lies in tensor analysis, statistical dimension reduction, a
 
 * **Kwon, Y**. and Oh, H. -S. (2025+). Randomized QLP decomposition for third-order tensors with unitary transform. Under review. [code](https://github.com/YoungukKwon/RTQLP)
 * **Kwon, Y**. and Oh, H.-S. (2025+). Traffic tensor completion with low-rank truncated sparsity-inducing regularizer. Under review. [code](https://github.com/YoungukKwon/TSIR)
-* **Kwon, Y**. and Oh, H.-S. (2025+). TLRR-TF: A fast tensor low-rank representation via tri-factorization. Under review. [code](https://github.com/YoungukKwon/TLRR-TF)
 * **Kwon, Y**. and Oh, H.-S. (2025+). Robust penalized rank-one tensor approximation. Under review. [code](https://github.com/YoungukKwon/RPTA)
+* **Kwon, Y**. and Oh, H.-S. (2025). TLRR-TF: A fast tensor low-rank representation via tri-factorization. *Pattern Recognition*. Accepted for publication [code](https://github.com/YoungukKwon/TLRR-TF)
 * Kang, S$^\dagger$., Kim, K$^\dagger$., **Kwon, Y**$^\dagger$., Park, S$^\dagger$., Park, S$^\dagger$., Shin, H.-Y$^\dagger$., Kim, J. and Oh, H.-S. (2025). Semiparametric approaches for the inference of univariate and multivariate extremes: Team SHSmultiscale. *Extremes*, 28(1), 123-148.
 * Kim, S$^\dagger$., **Kwon, Y**$^\dagger$., Kim, J., Bae, K., and Oh, H.-S. (2023). A model averaging prediction of two-way functional data in semiconductor manufacturing. *IEEE Transactions on Semiconductor Manufacturing*, 37(1), 76-86.
 
