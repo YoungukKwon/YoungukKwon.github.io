@@ -29,6 +29,7 @@ My research interest lies in tensor analysis, statistical dimension reduction, a
 
 ## Conference Talks 
 ### Oral Presentations
+* "Randomized QLP decomposition for third-order tensors with unitary transform", Korean Statistical Society Conference 2025 Winter (Seoul, Korea)
 * "Traffic tensor completion with low-rank sparsity-inducing regularizer", IASC-ARS 2025 (Ho Chi Minh City, Vietnam)
 * "TLRR-TF: A fast tensor low-rank representation via tri-factorization", IASC-ARS Interim Conference 2024 (Taipei, Taiwan)
 * "Robust penalized rank-one tensor approximation", Korean Statistical Society Conference 2024 Summer (Seoul, Korea)
