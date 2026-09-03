@@ -6,12 +6,12 @@ last_modified_at: 2026-06-29
 
 ---
 
-I am a Ph.D. student of Department of Statistics at Seoul National University (SNU), Korea.
+I am currently a Postdoctoral Researcher of Department of Statistics at Seoul National University (SNU), Korea.
 
 My research interest lies in tensor analysis, statistical dimension reduction, and robust statistics. 
 
 ## Education 
-2022 - present: Ph.D. Statistics, SNU \(Advisor: Professor [Hee-Seok Oh](https://sites.google.com/site/heeseokoh/)\)
+2022 - 2026: Ph.D. Statistics, SNU \(Advisor: Professor [Hee-Seok Oh](https://sites.google.com/site/heeseokoh/)\)
 
 2020 - 2021: M.S. Statistics, SNU
 
