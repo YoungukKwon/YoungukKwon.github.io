@@ -1,6 +1,6 @@
 ---
 permalink: /
-hidden: true
+hidden: false
 
 # last_modified_at: 2026-10-01
 
