@@ -1,5 +1,5 @@
 ---
-permalink: /index/
+permalink: /
 hidden: true
 
 # last_modified_at: 2026-10-01
