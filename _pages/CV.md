@@ -18,7 +18,7 @@ My research interest lies in tensor analysis, statistical dimension reduction, a
 2013 - 2019: B.S. Chemistry Education, SNU
 
 ## Research Publications
-(*Bold: first author, $\dagger$: equal contribution)
+(**Bold**: first author, $\dagger$: equal contribution)
 
 * **Kwon, Y**. and Oh, H. -S. (2026+). Nonconvex Poisson tensor completion with data-adaptive transform. Under review. [code](https://github.com/YoungukKwon/NPTCAT)
 * **Kwon, Y**. and Oh, H.-S. (2026+). Traffic tensor completion with low-rank truncated sparsity-inducing regularizer. Under review. [code](https://github.com/YoungukKwon/TSIR)
