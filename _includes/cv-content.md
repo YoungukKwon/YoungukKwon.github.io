@@ -15,7 +15,7 @@ My research interest lies in tensor analysis, statistical dimension reduction, a
 * **Kwon, Y**. and Oh, H. -S. (2026+). Nonconvex Poisson tensor completion with data-adaptive transform. Under review. [code](https://github.com/YoungukKwon/NPTCAT)
 * **Kwon, Y**. and Oh, H.-S. (2026+). Traffic tensor completion with low-rank truncated sparsity-inducing regularizer. Under review. [code](https://github.com/YoungukKwon/TSIR)
 * Kim, K., Park, S., Shin, H.-Y., Choi, J., Ha, J., Kim, J., Kwon, Y., Park, S. and Kang, S. (2026). Extremal PCA-based synthetic event generation for the prediction of extreme precipitation. *Extremes*, Accepted for publication. 
-* **Kwon, Y**. and Oh, H.-S. (2026). Robust penalized rank-one tensor approximation. *Computational Statistics*, 41, 135. [code](https://github.com/YoungukKwon/RPTA)
+* **Kwon, Y**. and Oh, H.-S. (2026). Robust penalized rank-one tensor approximation. *Computational Statistics*, 41(7), 135. [code](https://github.com/YoungukKwon/RPTA)
 * **Kwon, Y**. and Oh, H. -S. (2026). Randomized QLP decomposition for third-order tensors with unitary transform. *Journal of Scientific Computing*, 108(3), 69. [code](https://github.com/YoungukKwon/RTQLP)
 * **Kwon, Y**. and Oh, H.-S. (2026). TLRR-TF: A fast tensor low-rank representation via tri-factorization. *Pattern Recognition*, 172, Part D, 112762. [code](https://github.com/YoungukKwon/TLRR-TF)
 * Kang, S$^\dagger$., Kim, K$^\dagger$., **Kwon, Y**$^\dagger$., Park, S$^\dagger$., Park, S$^\dagger$., Shin, H.-Y$^\dagger$., Kim, J. and Oh, H.-S. (2025). Semiparametric approaches for the inference of univariate and multivariate extremes: Team SHSmultiscale. *Extremes*, 28(1), 123-148.
